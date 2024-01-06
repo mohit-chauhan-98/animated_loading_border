@@ -33,8 +33,8 @@
 
 # Preview
 
-![animated_loading_border](https://github.com/mohit-chauhan-98/animated_loading_border/blob/master/assets/light_animated_loading_border.gif)
-![animated_loading_border](https://github.com/mohit-chauhan-98/animated_loading_border/blob/master/assets/dark_animated_loading_border.gif)
+![animated_loading_border](https://github.com/mohit-chauhan-98/animated_loading_border/blob/master/assets/light_animated_loading_border.gif?raw=true)
+![animated_loading_border](https://github.com/mohit-chauhan-98/animated_loading_border/blob/master/assets/dark_animated_loading_border.gif?raw=true)
 
 ## Basic Usage
 

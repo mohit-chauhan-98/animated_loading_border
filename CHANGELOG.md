@@ -1,3 +1,8 @@
-## 0.0.1 - 2022-05-15
+## 0.0.2
 
-* TODO: Initial Release.
+* Changed the flutter sdk to '>=2.18.0 <4.0.0'.
+* Updated the package details.
+
+## 0.0.1
+
+* Initial Release.

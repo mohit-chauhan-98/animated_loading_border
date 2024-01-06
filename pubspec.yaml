@@ -1,11 +1,11 @@
 name: animated_loading_border
 description: A package that gives us a modern way to show animated border as a placeholder while loading our widget with easy customization and ready to use.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/mohit-chauhan-98/animated_loading_border
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: '>=2.18.0 <4.0.0'
+  flutter: ">=3.3.1" # Build using this version
 
 dependencies:
   flutter:
